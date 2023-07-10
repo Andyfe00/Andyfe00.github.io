@@ -1,0 +1,174 @@
+
+/* COLORES:
+Lateral: #0f1c30;
+Titulo:  #304a6f;
+color1: #658dc0
+color2: #79a9e6
+Naranja: #DD4D2C
+verdoso: #568281 */
+
+
+body,
+html {
+    width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+	font-family: 'Source Serif 4', serif;
+
+}
+
+h1{
+	color: #304a6f;
+	font-weight: 1000;
+	font-size: 4rem;
+	
+}
+
+h2{
+	color: #304a6f;
+	font-weight: 700;
+	font-size: 2.5rem;
+	
+}
+h3{
+	color:#658dc0;
+	font-weight: 500;
+	font-size: 2rem;
+	
+}
+h4{
+	color:#79a9e6;
+	font-weight: 300;
+	font-size: 1.5rem;
+	
+}
+
+h5{
+	color: #568281;
+	font-weight: 100;
+	font-size: 1.5rem;
+	
+}
+
+.division{
+	height: 100vh;
+}
+
+@media (min-width:768px){
+aside{
+	position: sticky;
+	top: -1px;
+	height: 100vh;
+}
+
+
+.hijo{
+	padding-left: 3rem;
+}
+
+}
+@media (max-width:768px){
+	.division{
+		text-align: center;
+	}
+}
+
+img{
+	width: 100%;
+}
+
+
+ .fa-stack {
+	margin-top: 1rem;
+
+	margin-right: 0.25rem;
+	font-size: 1.5rem;
+}
+
+ .fa-stack-2x {
+	color: #568281;
+	transition: all 0.2s ease;
+}
+
+ .fa-stack-1x {
+	color: #ffffff;
+	transition: all 0.2s ease;
+}
+
+
+
+ .fa-stack:hover .fa-stack-2x {
+	color: #ffffff;
+}
+
+ .fa-stack:hover .fa-stack-1x {
+	color: #0f1c30;
+}
+
+
+.btn-solid-reg {
+	display: inline-block;
+	padding: 1.375rem 2.25rem 1.375rem 2.25rem;
+	border: 1px solid #3a3939;
+	border-radius: 32px;
+	background-color: #DD4D2C;
+	color: #ffffff;
+	font-size: 0.875rem;
+	line-height: 0;
+	text-decoration: none;
+	transition: all 0.2s;
+
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.btn-solid-reg:hover {
+	background-color: #0f1c30;
+	color: white; /* needs to stay here because of the color property of a tag */
+	text-decoration: none;
+}
+
+.contacto img{
+	width: 60px;
+}
+
+
+aside{
+	background-color: #0f1c30;
+}
+
+.nav-link{
+	color:white;
+}
+.nav-link.active {
+	background-color: white !important;
+}
+
+.navbar-brand{
+	color:white;
+}
+
+.navbar-toggler{
+	color:white;
+	background-color: white;
+}
+
+
+
+.inicio a, .sobremi a, .portfolio a, .contacto a{
+	color:#DD4D2C;
+}
+
+.contacto i{
+	color:#568281;
+}
+
+
+.portfolio .card{
+	height: 380px;
+}
+
+.portfolio .card .card-footer{
+border:none;
+background-color: white;
+}
