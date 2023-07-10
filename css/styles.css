@@ -54,11 +54,21 @@ h5{
 	color:#DD4D2C;
 }
 
-.division{
-	height: 100vh;
+@media (max-width:768px){
+
+	.inicio, .contacto, .skills{
+		height: 100vh;
+	}
+	.sobremi, .educacion {
+		height: 100%;
+	}
 }
 
+
 @media (min-width:768px){
+	.division{
+		height: 100vh;
+	}
 aside{
 	position: sticky;
 	top: -1px;
@@ -82,10 +92,9 @@ img{
 }
 
 
- .fa-stack {
-	margin-top: 1rem;
-
-	margin-right: 0.25rem;
+.fa-stack {
+	text-align: center;
+	justify-content: left;
 	font-size: 1.5rem;
 }
 
@@ -98,8 +107,6 @@ img{
 	color: #ffffff;
 	transition: all 0.2s ease;
 }
-
-
 
  .fa-stack:hover .fa-stack-2x {
 	color: #ffffff;
@@ -156,9 +163,6 @@ aside{
 	color:white;
 	background-color: white;
 }
-
-
-
 
 
 .contacto i{
