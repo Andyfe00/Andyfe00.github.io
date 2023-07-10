@@ -50,6 +50,10 @@ h5{
 	
 }
 
+.inicio a, .sobremi a, .portfolio a, .contacto a{
+	color:#DD4D2C;
+}
+
 .division{
 	height: 100vh;
 }
@@ -112,7 +116,7 @@ img{
 	border: 1px solid #3a3939;
 	border-radius: 32px;
 	background-color: #DD4D2C;
-	color: #ffffff;
+	color: #ffffff !important;
 	font-size: 0.875rem;
 	line-height: 0;
 	text-decoration: none;
@@ -155,9 +159,7 @@ aside{
 
 
 
-.inicio a, .sobremi a, .portfolio a, .contacto a{
-	color:#DD4D2C;
-}
+
 
 .contacto i{
 	color:#568281;
