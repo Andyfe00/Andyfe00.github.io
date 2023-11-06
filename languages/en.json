@@ -1,0 +1,54 @@
+{
+    "menu":{
+
+        "sobremi":"About me", 
+        "educacion":"Education",
+        "habilidades":"Skills", 
+        "contacto":"Contact"
+    },
+    "inicio":{
+
+        "titulo":"Mechatronic Engineer",
+        "Bienvenidos":"Welcome to my portfolio", 
+        "escribir":"If you want to contact me write to <a href='mailto:andresfporras@hotmail.com'>andresfporras@hotmail.com</a>",
+        "descarga":"Download my CV"
+
+    },
+    "sobremi":{
+
+        "titulo":"ABOUT ME", 
+        "descripcion":"I am a mechatronics engineer, with skills in the fields of design and mathematical modeling, programming and electronics.",
+        "objetivo":"I am currently looking for job opportunities where I can apply and improve my skills as a professional.", 
+        "contacto":"If you want to contact me write <a href='mailto:andresfporras@hotmail.com'>here</a>",
+        "experiencia":"Look at my work experience in detail in my <a href='https://andyfe00.github.io/CV%20Andres%20Porras.pdf'>CV</a> or in <a href='https://www.linkedin.com/in/andyfe00/'>LinkedIn</a>"
+    },
+    "portfolio":{
+
+        "titulo":"My PORTFOLIO", 
+        "olsen":"Website developed in my first work experience",
+        "portfolio":"My portfolio"
+    },
+
+    "educacion":{
+
+        "titulo":"EDUCATION", 
+        "ingeniero":"Mechatronics Engineering", 
+        "fecha_ing":"August 2017 - June 2022",
+        "diplona":"Diploma in Project Management and Strategic Thinking", 
+        "uni_diploma":"University of Central Florida",
+        "fecha_diploma":"November 2021 - December 2021",
+        "fecha_solid":"August 2018"
+    },
+    "habilidades":{
+
+        "titulo":"SKILLS", 
+        "tools":"My languages, frameworks, technologies and tools:"
+    },
+    "contacto":{
+
+        "titulo":"CONTACT ME!", 
+        "desarrollo":"THIS SITE WAS DEVELOPED WITH:"
+
+    }
+
+}

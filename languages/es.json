@@ -1,0 +1,54 @@
+{
+    "menu":{
+
+        "sobremi":"Sobre mi", 
+        "educacion":"Educación",
+        "habilidades":"Habilidades", 
+        "contacto":"Contacto"
+    },
+    "inicio":{
+
+        "titulo":"Ingeniero en Mecatronica",
+        "Bienvenidos":"Bienvenidos a mi portfolio", 
+        "escribir":"Si quieres contactarme escribeme a <a href='mailto:andresfporras@hotmail.com'>andresfporras@hotmail.com</a>",
+        "descarga":"Descarga mi CV"
+
+    },
+    "sobremi":{
+
+        "titulo":"SOBRE MI", 
+        "descripcion":"Soy un ingeniero mecatrónico, con habilidades en los campos del diseño y modelado matemático, programación y electrónica.",
+        "objetivo":"Actualmente estoy buscando oportunidades laborales donde pueda aplicar y mejorar mis habilidades como profesional.", 
+        "contacto":"Si quieres contactarme escribe <a href='mailto:andresfporras@hotmail.com'>aqui</a>",
+        "experiencia":"Mira mi experiencia laboral detalladamente en mi <a href='https://andyfe00.github.io/CV%20Andres%20Porras.pdf'>CV</a> o en <a href='https://www.linkedin.com/in/andyfe00/'>LinkedIn</a>"
+    },
+    "portfolio":{
+
+        "titulo":"MI PORTFOLIO", 
+        "olsen":"Pagina web desarrollada en mi primera experiencia laboral",
+        "portfolio":"Mi portfolio"
+    },
+
+    "educacion":{
+
+        "titulo":"EDUCACIÓN", 
+        "ingeniero":"Ingeniero en Mecatronica", 
+        "fecha_ing":"Agosto 2017 - Junio 2022",
+        "diploma":"Diploma en Project Management y Pensamiento Estrategico", 
+        "uni_diploma":"Universidad Central de la Florida",
+        "fecha_diploma":"Noviembre 2021 - Diciembre 2021",
+        "fecha_solid":"Agosto 2018"
+    },
+    "habilidades":{
+
+        "titulo":"HABILIDADES", 
+        "tools":"Mis lenguajes, frameworks, tecnologias y herramientas:"
+    },
+    "contacto":{
+
+        "titulo":"CONTACTAME!", 
+        "desarrollo":"ESTE SITIO FUE DESARROLLADO CON:"
+
+    }
+
+}
