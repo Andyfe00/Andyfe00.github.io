@@ -177,10 +177,16 @@ aside{
 }
 
 
+
 .portfolio .card{
-	height: 380px;
+	height: 400px;
 	background-color: var(--fondo);
 	border-color: var(--black);
+}
+@media (max-width:768px){
+	.portfolio .card{
+		height: 380px;
+	}
 }
 
 .portfolio .card p{
@@ -192,11 +198,12 @@ aside{
 }
 
 
-
 .portfolio .card .card-footer{
 border:none;
 background-color: var(--fondo);
 }
+
+
 
 
 .flags{
