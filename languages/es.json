@@ -1,37 +1,45 @@
 {
+
     "menu":{
-
-        "sobremi":"Sobre mi", 
-        "educacion":"Educación",
-        "habilidades":"Habilidades", 
-        "contacto":"Contacto"
+        "home":"Inicio",
+        "aboutme":"Sobre mi", 
+        "portfolio":"portafolio",
+        "education":"Educación",
+        "skills":"Habilidades", 
+        "contact":"Contacto"
     },
-    "inicio":{
-
-        "titulo":"Ingeniero en Mecatronica",
-        "Bienvenidos":"Bienvenidos a mi portfolio", 
-        "escribir":"Si quieres contactarme escribeme a <a href='mailto:andresfporras@hotmail.com'>andresfporras@hotmail.com</a>",
-        "descarga":"Descarga mi CV"
-
+    "home":{
+        "titulo":"Hola, soy",
+        "welcome":"Bienvenidos a mi portafolio!"
     },
-    "sobremi":{
-
-        "titulo":"SOBRE MI", 
-        "descripcion":"Soy un ingeniero mecatrónico, con habilidades en los campos del diseño y modelado matemático, programación y electrónica.",
-        "objetivo":"Actualmente estoy buscando oportunidades laborales donde pueda aplicar y mejorar mis habilidades como profesional.", 
-        "contacto":"Si quieres contactarme escribe <a href='mailto:andresfporras@hotmail.com'>aqui</a>",
-        "experiencia":"Mira mi experiencia laboral detalladamente en mi <a href='https://andyfe00.github.io/CV%20Andres%20Porras.pdf'>CV</a> o en <a href='https://www.linkedin.com/in/andyfe00/'>LinkedIn</a>"
+    "aboutme":{
+        "title":"SOBRE MI", 
+        "description":"Soy Ingeniero en Mecatrónica y Msc en Robótica con experiencia en diseño mecánico, desarrollo de software y electrónica.",
+        "objetive":"Experiencia comprobada en la entrega de soluciones de software escalables y la integración de sistemas multidisciplinarios. Reconocido por su adaptabilidad, rápido aprendizaje y capacidad de resolución de problemas en entornos dinámicos.", 
+        "cv":"Descarga mi CV",
+        "contact":"Por favor contactame a <a href='mailto:andyfe00@gmail.com'>andyfe00@gmail.com</a>"
     },
     "portfolio":{
-
-        "titulo":"MI PORTFOLIO", 
-        "olsen":"Pagina web desarrollada en mi primera experiencia laboral",
-        "portfolio":"Mi portfolio"
+        "title":"My PORTFOLIO", 
+        "card1":"Simulación y control de robots en MATLAB y CoppeliaSim",
+        "card1-exp":"Simulación y control de robot SCARA y Manipuladores cartesianos",
+        "card2":"MATLAB y STM32",
+        "card2-exp":"Diseñador de aplicaciones MATLAB y comunicación en tiempo real con un microcontrolador STM32F7 para control digital",
+        "card3":"GUI de análisis de funciones de transferencia",
+        "card3-exp":"La aplicación proporciona una forma sencilla y visual de analizar y simular sistemas dinámicos mediante funciones de transferencia",
+        "card4":"Buscador de raíces polinómicas en Excel VBA",
+        "card4-exp":"Excel con macros de VBA para calcular los ceros de funciones polinómicas",
+        "card5":"Control PID",
+        "card5-exp":"Control de altura mediante PID discreto",
+        "card6":"SOLIDWORKS",
+        "card6-exp":"Diseños mecánicos de SolidWorks",
+        "card7":"Sitio web desarrollado en mi primera experiencia laboral"
     },
 
-    "educacion":{
-
-        "titulo":"EDUCACIÓN", 
+    "education":{
+        "title":"EDUCACION", 
+        "master":"MSc Robotica",
+        "fecha_mas":"Septiembre 2024 – Septiembre 2025",
         "ingeniero":"Ingeniero en Mecatronica", 
         "fecha_ing":"Agosto 2017 - Junio 2022",
         "diploma":"Diploma en Project Management y Pensamiento Estrategico", 
@@ -39,16 +47,14 @@
         "fecha_diploma":"Noviembre 2021 - Diciembre 2021",
         "fecha_solid":"Agosto 2018"
     },
-    "habilidades":{
-
-        "titulo":"HABILIDADES", 
+    "skills":{
+        "title":"HABILIDADES", 
         "tools":"Mis lenguajes, frameworks, tecnologias y herramientas:"
     },
-    "contacto":{
-
-        "titulo":"CONTACTAME!", 
-        "desarrollo":"ESTE SITIO FUE DESARROLLADO CON:"
-
+    "contact":{
+        "title":"CONTACTAME!", 
+        "develop":"ESTE SITIO FUE DESARROLLADO CON:"
     }
-
 }
+
+ 
